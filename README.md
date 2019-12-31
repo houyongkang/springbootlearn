@@ -1,4 +1,3 @@
-> springboot系列教程，有原创和转载，希望能帮到大家。
 
 **springboot2.X系列：**
 
@@ -23,8 +22,6 @@
 * [一起来学SpringBoot | 第十七篇：轻松搞定文件上传](https://blog.csdn.net/Winter_chen001/article/details/81180941)
 * [一起来学SpringBoot | 第十八篇：轻松搞定全局异常](https://blog.csdn.net/Winter_chen001/article/details/81181339)
 * [一起来学SpringBoot | 第十九篇：轻松搞定数据验证（一）](https://blog.csdn.net/Winter_chen001/article/details/81196720)
-* 一起来学SpringBoot | 第二十篇：轻松搞定数据验证（二）  请期待...
-* 一起来学SpringBoot | 第二十一篇：轻松搞定数据验证（三）  请期待...
 * [[SpringBoot2.X] springboot Mybatis 整合](https://blog.csdn.net/winter_chen001/article/details/80010967)
 * [[SpringBoot2.X] springboot mybatis 使用多数据源](https://blog.csdn.net/winter_chen001/article/details/80513993)
 * 持续更新中...
