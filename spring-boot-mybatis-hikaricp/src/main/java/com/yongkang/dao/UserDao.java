@@ -1,6 +1,6 @@
-package com.winterchen.dao;
+package com.yongkang.dao;
 
-import com.winterchen.model.UserDomain;
+import com.yongkang.model.UserDomain;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 

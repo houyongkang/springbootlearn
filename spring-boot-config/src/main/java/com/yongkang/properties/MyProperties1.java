@@ -1,4 +1,4 @@
-package com.winterchen.properties;
+package com.yongkang.properties;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;

@@ -1,4 +1,4 @@
-package com.winterchen.config;
+package com.yongkang.config;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import org.apache.ibatis.session.SqlSessionFactory;

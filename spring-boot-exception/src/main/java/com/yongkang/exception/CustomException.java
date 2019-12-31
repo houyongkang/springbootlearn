@@ -1,4 +1,4 @@
-package com.winterchen.exception;
+package com.yongkang.exception;
 
 /**
  * 自定义异常

@@ -1,4 +1,4 @@
-package com.winterchen.config;
+package com.yongkang.config;
 
 import org.springframework.jdbc.datasource.lookup.AbstractRoutingDataSource;
 import org.springframework.lang.Nullable;

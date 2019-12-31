@@ -1,6 +1,6 @@
-package com.winterchen.mapper;
+package com.yongkang.mapper;
 
-import com.winterchen.entity.User;
+import com.yongkang.entity.User;
 import org.apache.ibatis.annotations.Mapper;
 import tk.mybatis.mapper.common.BaseMapper;
 

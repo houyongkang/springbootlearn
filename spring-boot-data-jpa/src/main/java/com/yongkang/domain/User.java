@@ -1,4 +1,4 @@
-package com.winterchen.domain;
+package com.yongkang.domain;
 
 import javax.persistence.*;
 import java.io.Serializable;

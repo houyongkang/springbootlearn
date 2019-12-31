@@ -1,6 +1,6 @@
-package com.winterchen.controller;
+package com.yongkang.controller;
 
-import com.winterchen.exception.CustomException;
+import com.yongkang.exception.CustomException;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

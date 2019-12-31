@@ -1,7 +1,8 @@
-package com.yongkang.dubbo;
+package com.yongkang.aa;
 
 import com.alibaba.dubbo.config.annotation.Reference;
 import com.yongkang.domain.User;
+import com.yongkang.dubbo.UserDubboService;
 import org.springframework.stereotype.Component;
 
 /**

@@ -52,12 +52,6 @@
 
 
 
-
-
-springboot技术交流群：681513531
-
-个人博客：https://winterchen.com
-
 全文代码：https://github.com/WinterChenS/springboot-learning-experience
 
 

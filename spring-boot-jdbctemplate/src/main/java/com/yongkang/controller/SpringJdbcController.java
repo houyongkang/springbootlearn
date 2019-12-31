@@ -1,6 +1,6 @@
-package com.winterchen.controller;
+package com.yongkang.controller;
 
-import com.winterchen.domain.User;
+import com.yongkang.domain.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;

@@ -1,6 +1,6 @@
-package com.winterchen;
+package com.yongkang;
 
-import com.winterchen.entity.User;
+import com.yongkang.entity.User;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.slf4j.Logger;

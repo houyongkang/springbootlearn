@@ -1,6 +1,6 @@
-package com.winterchen.controller;
+package com.yongkang.controller;
 
-import com.winterchen.pojo.Book;
+import com.yongkang.pojo.Book;
 import org.hibernate.validator.constraints.Length;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.GetMapping;

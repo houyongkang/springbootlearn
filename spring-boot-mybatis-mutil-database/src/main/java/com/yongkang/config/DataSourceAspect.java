@@ -1,4 +1,4 @@
-package com.winterchen.config;
+package com.yongkang.config;
 
 import org.apache.commons.lang3.StringUtils;
 import org.aspectj.lang.JoinPoint;
@@ -25,7 +25,7 @@ public class DataSourceAspect {
 
     private static Logger logger = LoggerFactory.getLogger(DataSourceAspect.class);
 
-    @Pointcut("execution(* com.winterchen.dao.*.*(..))")
+    @Pointcut("execution(* com.yongkang.dao.*.*(..))")
     public void aspect() {
 
     }

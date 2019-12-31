@@ -1,4 +1,4 @@
-package com.winterchen.model;
+package com.yongkang.model;
 
 /**
  * Created by Donghua.Chen on 2018/7/25.

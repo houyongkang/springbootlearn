@@ -1,6 +1,6 @@
-package com.winterchen.service;
+package com.yongkang.service;
 
-import com.winterchen.domain.User;
+import com.yongkang.domain.User;
 
 /**
  * Created by Donghua.Chen on 2018/6/19.

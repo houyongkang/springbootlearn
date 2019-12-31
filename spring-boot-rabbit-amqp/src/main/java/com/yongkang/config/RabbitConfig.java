@@ -1,4 +1,4 @@
-package com.winterchen.config;
+package com.yongkang.config;
 
 import org.springframework.amqp.core.Queue;
 import org.springframework.context.annotation.Bean;

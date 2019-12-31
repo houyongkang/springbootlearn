@@ -1,4 +1,4 @@
-package com.winterchen.domain;
+package com.yongkang.domain;
 
 import java.io.Serializable;
 
